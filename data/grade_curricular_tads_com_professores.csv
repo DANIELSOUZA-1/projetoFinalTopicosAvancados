@@ -1,0 +1,36 @@
+Período,Disciplina,Créditos,Professor
+1,Lógica de Programação,4,Prof. Bruno Silva
+1,Introdução à Computação,4,Prof. Juliana Almeida
+1,Matemática Discreta,4,Prof. Carlos Oliveira
+1,Algoritmos e Estruturas de Dados,4,Prof. Bruno Silva
+1,Sistemas Operacionais,3,Prof. Juliana Almeida
+1,Comunicação e Expressão,3,Prof. Carlos Oliveira
+2,Algoritmos e Estruturas de Dados II,4,Prof. Bruno Silva
+2,Banco de Dados,4,Prof. Juliana Almeida
+2,Programação Orientada a Objetos,4,Prof. Carlos Oliveira
+2,Engenharia de Software,4,Prof. Bruno Silva
+2,Redes de Computadores,3,Prof. Juliana Almeida
+2,Ética Profissional,3,Prof. Carlos Oliveira
+3,Desenvolvimento Web,4,Prof. Bruno Silva
+3,Sistemas de Informação,4,Prof. Juliana Almeida
+3,Programação para Dispositivos Móveis,4,Prof. Carlos Oliveira
+3,Segurança da Informação,4,Prof. Bruno Silva
+3,Projeto de Sistemas,4,Prof. Juliana Almeida
+3,Matemática Aplicada,2,Prof. Carlos Oliveira
+4,Sistemas de Gestão Empresarial,4,Prof. Bruno Silva
+4,Desenvolvimento de Interfaces,4,Prof. Juliana Almeida
+4,Arquitetura de Software,4,Prof. Carlos Oliveira
+4,Banco de Dados Avançado,4,Prof. Bruno Silva
+4,Computação em Nuvem,3,Prof. Juliana Almeida
+4,Desenvolvimento de Jogos,3,Prof. Carlos Oliveira
+5,Redes de Computadores II,4,Prof. Bruno Silva
+5,Inteligência Artificial,4,Prof. Juliana Almeida
+5,Engenharia de Requisitos,4,Prof. Carlos Oliveira
+5,Sistemas Distribuídos,4,Prof. Bruno Silva
+5,Gestão de Projetos de TI,3,Prof. Juliana Almeida
+5,Empreendedorismo em TI,3,Prof. Carlos Oliveira
+6,Estágio Supervisionado,6,Prof. Bruno Silva
+6,Trabalho de Conclusão de Curso,6,Prof. Juliana Almeida
+6,Gestão de Segurança da Informação,4,Prof. Carlos Oliveira
+6,Tecnologia de Big Data,4,Prof. Bruno Silva
+6,Inovação e Tecnologia,2,Prof. Juliana Almeida
